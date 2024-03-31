@@ -7,6 +7,7 @@
 - ⚡ Fun fact: adoro ler!
 
 * Feliz páscoa!
+* 30/03
 
 <!---
 nunesemi/nunesemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
