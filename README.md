@@ -6,9 +6,6 @@
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: adoro ler!
 
-* Feliz páscoa!
-* 30/03
-* teste
 
 <!---
 nunesemi/nunesemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
